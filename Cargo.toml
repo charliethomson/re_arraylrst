@@ -1,0 +1,7 @@
+[package]
+name = "arraylist"
+version = "0.1.0"
+authors = ["Charlie Thomson <charliecthomson@gmail.com>"]
+edition = "2018"
+
+[dependencies]
